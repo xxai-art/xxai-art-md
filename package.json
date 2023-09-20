@@ -1,6 +1,6 @@
 {
   "type": "module",
   "dependencies": {
-    "@xxai/i18n": "link:../node/i18n"
+    "@xxai/i18n": "^0.0.2"
   }
 }
