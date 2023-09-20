@@ -1,0 +1,32 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@w5/bar':
+    specifier: ^0.0.5
+    version: 0.0.5
+  '@xxai/i18n':
+    specifier: link:../node/i18n
+    version: link:../node/i18n
+
+packages:
+
+  /@w5/bar@0.0.5:
+    resolution: {integrity: sha512-LRaQU2/6youNijra8XHcNmyeeICUuGI6kBp4NQLZZ1xkSQfOvqtHRxmwdUdkVrChzEOrJ6gSzbicoqwdStTtrQ==}
+    dependencies:
+      chalk: 5.3.0
+      progress: 2.0.3
+    dev: false
+
+  /chalk@5.3.0:
+    resolution: {integrity: sha512-dLitG79d+GV1Nb/VYcCDFivJeK1hiukt9QjRNVOsUtTy1rR1YJsmpGGTZ3qJos+uw7WmWF4wUwBd9jxjocFC2w==}
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+    dev: false
+
+  /progress@2.0.3:
+    resolution: {integrity: sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==}
+    engines: {node: '>=0.4.0'}
+    dev: false
