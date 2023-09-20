@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "@xxai/i18n": "link:../node/i18n"
+    "@xxai/i18n": "link:../node/i18n",
+    "@xxai/i18n-bin": "link:../node/i18n-bin"
   }
 }
