@@ -5,15 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  '@w5/default':
-    specifier: ^0.0.1
-    version: 0.0.1
   '@xxai/i18n':
     specifier: link:../node/i18n
     version: link:../node/i18n
-
-packages:
-
-  /@w5/default@0.0.1:
-    resolution: {integrity: sha512-o0Kxb7Ridf63kz62UOZcw800Qz2HHE68F+7JPdB58PF5QFtOZKpsH0IXHb2Cv0qWSUoJ8SO4s49H3gWc7lKlfA==}
-    dev: false
+  '@xxai/i18n-bin':
+    specifier: link:../node/i18n-bin
+    version: link:../node/i18n-bin
