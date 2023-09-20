@@ -47,5 +47,3 @@ Dominus Lu Xun scripsit in "Suis titulus Portrait":
   Procellae et obscurae Hometown
   De significatione stellae frigidae non animadvertit
   Commendo Xuanyuan cum sanguine
-
-

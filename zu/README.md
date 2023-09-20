@@ -47,5 +47,3 @@ UMnu. Lu Xun wabhala ku-"Self-titled Portrait":
   Idolobha Lasekhaya Elinezivunguvungu futhi Elimnyama
   Incazelo yenkanyezi ebandayo ayibonwa
   Ngincoma u-Xuanyuan ngegazi lami
-
-

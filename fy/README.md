@@ -47,5 +47,3 @@ De hear Lu Xun skreau yn "Self-titled Portrait":
   Stormy en Dark Hometown
   De betsjutting fan 'e kâlde stjer wurdt net opmurken
   Ik advisearje Xuanyuan mei myn bloed
-
-

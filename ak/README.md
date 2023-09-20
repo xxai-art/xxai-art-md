@@ -47,5 +47,3 @@ Owura Lu Xun kyerɛwee wɔ "Self-titled Portrait" mu sɛ:
   Ahum ne Esum Kurow a Ɛwɔ Kurom
   Wɔnhyɛ nea nsoromma a ɛyɛ nwini no kyerɛ no nsow
   Mekamfo Xuanyuan kyerɛ sɛ mede me mogya ka ho
-
-

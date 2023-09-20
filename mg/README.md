@@ -47,5 +47,3 @@ Atoa Lu Xun nanoratra tao amin'ny “Sarin'ny tena mitondra ny lohateny hoe:
   Tanàna misy tafio-drivotra sy maizina
   Tsy voamarika ny dikan'ny kintana mangatsiaka
   Manoro hevitra an'i Xuanyuan miaraka amin'ny rako aho
-
-

@@ -47,5 +47,3 @@ Sumulat si G. Lu Xun sa "Self-titled Portrait":
   Mabagyo at Madilim na Bayan
   Hindi napapansin ang kahulugan ng malamig na bituin
   Inirerekomenda ko ang Xuanyuan sa aking dugo
-
-

@@ -47,5 +47,3 @@ Insurat ni Mr. Lu Xun iti "Bukod a napauluan a Retrato":
   Nabagyo ken Nasipnget nga Ili
   Saan a madlaw ti kaipapanan ti nalamiis a bituen
   Irekomendak ni Xuanyuan babaen ti darak
-
-

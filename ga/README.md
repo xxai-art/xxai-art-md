@@ -47,5 +47,3 @@ Scríobh an tUasal Lu Xun i "Portráid Féin-teideal":
   Baile Dúchais Stoirme agus Dorcha
   Ní thugtar faoi deara brí na réalta fuar
   Molaim Xuanyuan le mo chuid fola
-
-

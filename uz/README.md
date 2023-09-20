@@ -47,5 +47,3 @@ Janob Lu Xun "O'z nomidagi portret" asarida shunday yozgan:
   Bo'ronli va qorong'u ona shahar
   Sovuq yulduzning ma'nosi sezilmaydi
   Men Xuanyuanni qonim bilan tavsiya qilaman
-
-

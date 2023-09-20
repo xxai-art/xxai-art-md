@@ -47,5 +47,3 @@ Mista Lu Xun ya rubuta a cikin "Hoto mai taken kansa":
   Guguwa da Garin Gida Duhu
   Ba a lura da ma'anar tauraron sanyi ba
   Ina ba da shawarar Xuanyuan da jini na
-
-

@@ -47,5 +47,3 @@ Cənab Lu Xun “Self-titled Portrait” əsərində yazırdı:
   Fırtınalı və Qaranlıq Vətən
   Soyuq ulduzun mənası hiss olunmur
   Xuanyuanı qanımla tövsiyə edirəm
-
-

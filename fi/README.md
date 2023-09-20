@@ -47,5 +47,3 @@ Mr. Lu Xun kirjoitti "Oma muotokuva":
   Myrskyinen ja synkkä kotikaupunki
   Kylmän tähden merkitystä ei huomata
   Suosittelen Xuanyuania verelläni
-
-

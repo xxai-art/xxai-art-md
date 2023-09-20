@@ -47,5 +47,3 @@ Karai Lu Xun ohai "Retrato autotitulado"-pe:
   Táva Tormenta ha Iñypytũva
   Ndojehechakuaái mba’épa he’ise pe mbyja ro’ysã
   Che arrecomenda Xuanyuan che ruguy reheve
-
-

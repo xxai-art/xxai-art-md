@@ -47,5 +47,3 @@ Si G. Lu Xun misulat sa "Self-titled Portrait":
   Bagyo ug Ngitngit nga Lungsod nga Natawhan
   Ang kahulogan sa bugnaw nga bituon wala mamatikdi
   Girekomenda nako ang Xuanyuan sa akong dugo
-
-

@@ -47,5 +47,3 @@ Lu Xun jaunak "Izenburuko erretratua"-n idatzi zuen:
   Ekaitz eta Iluna Jaioterria
   Izar hotzaren esanahia ez da nabaritzen
   Xuanyuan gomendatzen dut nire odolarekin
-
-

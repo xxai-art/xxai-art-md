@@ -47,5 +47,3 @@ G. Lu Xun je v "Portret z lastnim naslovom" zapisal:
   Nevihtni in temni domači kraj
   Pomen hladne zvezde ni opažen
   Priporočam Xuanyuan s svojo krvjo
-
-

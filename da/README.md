@@ -47,5 +47,3 @@ Mr. Lu Xun skrev i "Selvbetitlet portræt":
   Stormfuld og mørk hjemby
   Betydningen af ​​den kolde stjerne er ikke bemærket
   Jeg anbefaler Xuanyuan med mit blod
-
-

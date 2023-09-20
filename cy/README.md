@@ -47,5 +47,3 @@ Ysgrifennodd Mr. Lu Xun yn "Portread Hunan-deitl":
   Tref enedigol Stormus a Thywyll
   Ni sylwir ar ystyr y seren oer
   Rwy'n argymell Xuanyuan gyda fy ngwaed
-
-

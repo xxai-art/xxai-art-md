@@ -47,5 +47,3 @@ Tuan Lu Xun menulis dalam "Potret Self-titled":
   Kampung Halaman yang Penuh Badai dan Gelap
   Arti dari bintang dingin tidak diperhatikan
   Saya merekomendasikan Xuanyuan dengan darah saya
-
-

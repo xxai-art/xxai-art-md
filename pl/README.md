@@ -47,5 +47,3 @@ Pan Lu Xun napisał w „Portrecie o własnym tytule”:
   Burzliwe i ciemne miasto rodzinne
   Znaczenie zimnej gwiazdy nie zostało zauważone
   Polecam Xuanyuan moją krwią
-
-

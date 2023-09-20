@@ -47,5 +47,3 @@ Bw. Lu Xun aliandika katika "Picha yenye jina la kibinafsi":
   Mji wa Dhoruba na Giza
   Maana ya nyota baridi haijatambuliwa
   Ninapendekeza Xuanyuan na damu yangu
-
-

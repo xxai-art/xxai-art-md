@@ -47,5 +47,3 @@ M. Lu Xun akomaki na "Potrait auto-titre" :
   Mboka ya kobotama ya mopɛpɛ makasi mpe ya molili
   Ndimbola ya monzoto ya malili emonanaka te
   Na recommander Xuanyuan na makila na ngai
-
-

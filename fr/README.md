@@ -47,5 +47,3 @@ M. Lu Xun a écrit dans « Portrait éponyme » :
   Ville natale orageuse et sombre
   La signification de l'étoile froide n'est pas remarquée
   Je recommande Xuanyuan avec mon sang
-
-

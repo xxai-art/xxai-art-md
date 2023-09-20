@@ -47,5 +47,3 @@ Encik Lu Xun menulis dalam "Potret Bertajuk Diri":
   Kampung Halaman Ribut dan Gelap
   Maksud bintang sejuk tidak diperhatikan
   Saya cadangkan Xuanyuan dengan darah saya
-
-

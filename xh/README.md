@@ -47,5 +47,3 @@ UMnu. Lu Xun wabhala kwi-"Self-titled Portrait":
   Idolophu yasekhaya enesaqhwithi nemnyama
   Intsingiselo yenkwenkwezi ebandayo ayiqatshelwa
   Ndicebisa uXuanyuan ngegazi lam
-
-

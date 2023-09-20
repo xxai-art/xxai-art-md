@@ -47,5 +47,3 @@ Tayta Lu Xun "Kikin sutichasqa Retrato" nisqapi qillqarqan:
   Tormenta y Tuta Llaqta
   Chiri quyllurpa ima ninan kasqanmantaqa manam musyakunchu
   Xuanyuanta yawarniywan yuyaychani
-
-

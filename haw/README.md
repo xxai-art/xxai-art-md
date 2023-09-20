@@ -47,5 +47,3 @@ Ua kākau ʻo Mr. Lu Xun ma "Self-titled Portrait":
   Kaona Home ino a me ka pouli
   ʻAʻole ʻike ʻia ke ʻano o ka hōkū anu
   Paipai au iā Xuanyuan me koʻu koko
-
-

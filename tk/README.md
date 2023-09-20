@@ -47,5 +47,3 @@ Jenap Lu Ksun "Öz-özüni portret" diýip ýazdy:
   Tupanly we garaňky şäher
   Sowuk ýyldyzyň manysy görnenok
   Suanyuany ganym bilen maslahat berýärin
-
-

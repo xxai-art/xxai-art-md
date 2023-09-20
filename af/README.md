@@ -47,5 +47,3 @@ Mnr. Lu Xun het in "Self-titled Portrait" geskryf:
   Stormagtige en Donker Tuisdorp
   Die betekenis van die koue ster word nie raakgesien nie
   Ek beveel Xuanyuan met my bloed aan
-
-

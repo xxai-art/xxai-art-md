@@ -47,5 +47,3 @@ Mista Lu Xun rayt insay "Self-titled Portrait":
   Stormy ɛn Dak Ɔm Taun
   Dɛn nɔ notis wetin di kol sta min
   A rikomenda Xuanyuan wit mi blɔd
-
-

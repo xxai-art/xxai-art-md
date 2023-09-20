@@ -47,5 +47,3 @@ Lu Xun tatax "Retrato autotitulado" ukan qillqt'awayi:
   Tormenta ukat Ch’amaka Marka
   Thaya warawaran amuyupax janiw amuyaskiti
   Nayax Xuanyuan wila masijampiw iwxt’ta
-
-

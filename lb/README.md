@@ -47,5 +47,3 @@ Den Här Lu Xun huet am "Self-titled Portrait" geschriwwen:
   Stuerm an däischter Heemechtsstad
   D'Bedeitung vum kale Stär gëtt net gemierkt
   Ech recommandéieren Xuanyuan mat mengem Blutt
-
-

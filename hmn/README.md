@@ -47,5 +47,3 @@ Mr. Lu Xun tau sau hauv "Tus kheej lub npe Portrait":
   Cua daj cua dub thiab tsaus ntuj
   Lub ntsiab lus ntawm lub hnub qub txias tsis pom
   Kuv pom zoo Xuanyuan nrog kuv cov ntshav
-
-

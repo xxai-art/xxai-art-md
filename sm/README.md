@@ -47,5 +47,3 @@ Na tusia e Mr. Lu Xun i le "Self-titled Portrait":
   Nu'u Aiga Afa ma Pogisa
   E le o matauina le uiga o le fetu malulu
   Ou te fautuaina Xuanyuan ma loʻu toto
-
-

@@ -47,5 +47,3 @@ Lu Xun úr ezt írta az "Önarckép"-ben:
   Viharos és sötét szülőváros
   A hideg csillag jelentését nem veszik észre
   A véremmel ajánlom Xuanyuant
-
-

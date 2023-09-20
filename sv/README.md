@@ -47,5 +47,3 @@ Lu Xun skrev i "Självbetitlat porträtt":
   Stormig och mörk hemstad
   Innebörden av den kalla stjärnan märks inte
   Jag rekommenderar Xuanyuan med mitt blod
-
-

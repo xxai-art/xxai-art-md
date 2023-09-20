@@ -47,5 +47,3 @@ Il signor Lu Xun ha scritto nel "Ritratto omonimo":
   Città natale tempestosa e oscura
   Il significato della stella fredda non viene notato
   Raccomando Xuanyuan con il mio sangue
-
-

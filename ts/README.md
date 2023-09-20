@@ -47,5 +47,3 @@ Tatana Lu Xun u tsarile eka "Self-titled Portrait":
   Doroba ra ka vona ra Xidzedze na Munyama
   Nhlamuselo ya nyeleti yo titimela a yi xiyiwi
   Ndzi bumabumela Xuanyuan hi ngati ya mina
-
-

@@ -47,5 +47,3 @@ Maazị Lu Xun dere na "Portrait nke akpọrọ onwe ya":
   Oké ifufe na obodo gbara ọchịchịrị
   Achọpụtaghị ihe kpakpando oyi pụtara
   Ana m akwado Xuanyuan n'ọbara m
-
-

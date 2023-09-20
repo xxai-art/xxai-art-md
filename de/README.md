@@ -47,5 +47,3 @@ Herr Lu Xun schrieb in „Selbstbetiteltes Porträt“:
   Stürmische und dunkle Heimatstadt
   Die Bedeutung des kalten Sterns wird nicht bemerkt
   Ich empfehle Xuanyuan mit meinem Blut
-
-

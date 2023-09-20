@@ -47,5 +47,3 @@ Mesye Lu Xun te ekri nan "Self-titled Portrait":
   Tanpèt ak nwa Hometown
   Siyifikasyon zetwal frèt la pa remake
   Mwen rekòmande Xuanyuan ak san mwen
-
-

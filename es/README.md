@@ -47,5 +47,3 @@ El Sr. Lu Xun escribió en "Retrato homónimo":
   Ciudad natal tormentosa y oscura
   No se nota el significado de la estrella fría.
   Recomiendo Xuanyuan con mi sangre.
-
-

@@ -47,5 +47,3 @@ Aƒetɔ Lu Xun ŋlɔ ɖe "Self-titled Portrait" me be:
   Ahom kple Viviti si me Wode Du
   Womedea dzesi gɔmesese si le ɣletivi fafɛ la ŋu o
   Mekafu Xuanyuan kple nye ʋu
-
-

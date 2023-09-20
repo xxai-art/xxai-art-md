@@ -47,5 +47,3 @@ O señor Lu Xun escribiu en "Retrato autotitulado":
   Cidade natal tempestuosa e escura
   Non se nota o significado da estrela fría
   Recomendo Xuanyuan co meu sangue
-
-

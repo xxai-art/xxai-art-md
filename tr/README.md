@@ -47,5 +47,3 @@ Bay Lu Xun, "Kendi Adını taşıyan Portre"de şunu yazdı:
   Fırtınalı ve Karanlık Memleket
   Soğuk yıldızın anlamı fark edilmiyor
   Kanımla Xuanyuan'ı öneriyorum
-
-

@@ -47,5 +47,3 @@ Birêz Lu Xun di "Portreya Xweser" de nivîsand:
   Bajarokê bahoz û tarî
   Wateya stêrka sar nayê dîtin
   Ez Xuanyuan bi xwîna xwe pêşniyar dikim
-
-

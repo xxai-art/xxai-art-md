@@ -47,5 +47,3 @@ Sgrìobh Mgr Lu Xun ann an “Self-titled Portrait”:
   Baile-dùthcha stoirmeil is dorcha
   Chan eil ciall an rionnag fhuar air a thoirt fa-near
   Tha mi a 'moladh Xuanyuan le m' fhuil
-
-

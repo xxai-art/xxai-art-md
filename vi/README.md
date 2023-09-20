@@ -47,5 +47,3 @@ fn main(){
   Quê hương giông bão và tối tăm
   Ý nghĩa của sao lạnh không được chú ý
   Tôi giới thiệu Hiên Viên bằng máu của mình
-
-

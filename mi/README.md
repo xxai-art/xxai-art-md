@@ -47,5 +47,3 @@ Ko Mr. Lu Xun i tuhi i roto i te "Whakaahua Whaiaro":
   Awha me te Pouri kainga
   Kare e kitea te tikanga o te whetu makariri
   Ka tūtohu ahau ki a Xuanyuan me oku toto
-
-

@@ -47,5 +47,3 @@ Tuan Lu Xun nyerat dina "Potret Judul Diri":
   Badai jeung Dark Hometown
   Hartina béntang tiis teu katénjo
   Abdi nyarankeun Xuanyuan kalayan getih abdi
-
-

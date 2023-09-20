@@ -47,5 +47,3 @@ Mr. Lu Xun waxa uu ku qoray "Sawir is-ciwaanka ah":
   Duufaan iyo Magaaladii Madow
   Macnaha xiddiga qabow lama dareemo
   Waxaan kula talinayaa Xuanyuan dhiigayga
-
-

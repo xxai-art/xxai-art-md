@@ -47,5 +47,3 @@ Is-Sur Lu Xun kiteb fi "Ritratt bl-isem lilu nnifsu":
   Hometown Stormy u Dark
   It-tifsira tal-istilla kiesħa mhix innutata
   Nirrakkomanda lil Xuanyuan bid-demm tiegħi
-
-

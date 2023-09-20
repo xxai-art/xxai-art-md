@@ -47,5 +47,3 @@ Ponas Lu Xunas rašė knygoje „Savadarbis portretas“:
   Audringas ir tamsus gimtasis miestas
   Šaltos žvaigždės reikšmė nepastebima
   Rekomenduoju Xuanyuan su savo krauju
-
-

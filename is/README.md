@@ -47,5 +47,3 @@ Herra Lu Xun skrifaði í „Self-titled Portrait“:
   Stormur og dimmur heimabær
   Ekki er tekið eftir merkingu köldu stjörnunnar
   Ég mæli með Xuanyuan með blóðinu mínu
-
-

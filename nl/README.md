@@ -47,5 +47,3 @@ De heer Lu Xun schreef in "Self-titled Portrait":
   Stormachtige en donkere geboortestad
   De betekenis van de koude ster wordt niet opgemerkt
   Ik beveel Xuanyuan aan met mijn bloed
-
-

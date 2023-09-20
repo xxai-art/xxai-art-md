@@ -47,5 +47,3 @@ U Signore Lu Xun hà scrittu in "Ritrattu intitulatu":
   Città natale tempestosa è scura
   U significatu di a stella fredda ùn hè micca nutatu
   Aghju cunsigliatu Xuanyuan cù u mo sangue
-
-

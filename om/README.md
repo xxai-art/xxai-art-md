@@ -47,5 +47,3 @@ Obbo Lu Xun "Self-titled Portrait" keessatti akkas jechuun barreessaniiru:
   Magaalaa dhalootaa Obomboleettii fi Dukkana
   Hiikni urjii qorraa hin hubatamu
   Xuanyuan dhiiga kootiin gorsa
-
-

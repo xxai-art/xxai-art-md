@@ -47,5 +47,3 @@ S-ro Lu Xun skribis en "Memtitolita Portreto":
   Ŝtorma kaj Malhela Hejmurbo
   La signifo de la malvarma stelo ne estas rimarkita
   Mi rekomendas Xuanyuan per mia sango
-
-

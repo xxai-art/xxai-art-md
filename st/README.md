@@ -47,5 +47,3 @@ Mong Lu Xun o ngotse ho "Self-titled Portrait":
   Lehae la Sefefo le Lefifi
   Moelelo oa naleli e batang ha o hlokomeloe
   Ke khothaletsa Xuanyuan ka mali a ka
-
-

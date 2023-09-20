@@ -47,5 +47,3 @@ Z. Lu Xun shkroi në "Vetëtitulluar Portret":
   Vendlindja e stuhishme dhe e errët
   Kuptimi i yllit të ftohtë nuk vihet re
   Unë rekomandoj Xuanyuan me gjakun tim
-
-

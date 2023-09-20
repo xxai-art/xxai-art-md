@@ -47,5 +47,3 @@ El Sr. Lu Xun va escriure a "Retrat amb el mateix títol":
   Ciutat natal tempestuosa i fosca
   El significat de l'estrella freda no es nota
   Recomano Xuanyuan amb la meva sang
-
-

@@ -47,5 +47,3 @@ Pu Lu Xun-a chuan "Self-titled Portrait"-ah hian heti hian a ziak a:
   Thlipui leh Thim tak Hometown
   Arsi vawt awmzia hi hriat chian a ni lo
   Ka thisen nen Xuanyuan hi ka recommend a ni
-
-

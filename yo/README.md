@@ -47,5 +47,3 @@ fn main(){
   Iji ati Dudu Ile-Ile
   Itumọ irawọ tutu ko ṣe akiyesi
   Mo ṣeduro Xuanyuan pẹlu ẹjẹ mi
-
-

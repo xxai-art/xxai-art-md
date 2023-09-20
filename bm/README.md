@@ -47,5 +47,3 @@ Mr. Lu Xun ye sɛbɛnni kɛ "Self-titled Portrait" kɔnɔ:
   Sanfiɲɛ ni dibi bɛ dugu min na
   Dolow nɛnɛman kɔrɔ tɛ Kɔlɔsi
   N bɛ Xuanyuan laadi ni n joli ye
-
-

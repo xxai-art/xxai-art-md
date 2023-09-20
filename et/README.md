@@ -47,5 +47,3 @@ Hr Lu Xun kirjutas "Isenimetatud portrees":
   Tormine ja tume kodulinn
   Külma tähe tähendust ei panda tähele
   Soovitan Xuanyuani oma verega
-
-

@@ -47,5 +47,3 @@ Morena Lu Xun o ngwadile ka go "Self-titled Portrait":
   Motse wa Gabo wa Ledimo le Lefsifsi
   Bokao bja naledi ye e tonyago ga bo lemogwe
   Ke kgothaletša Xuanyuan ka madi a ka
-
-

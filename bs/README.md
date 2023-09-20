@@ -47,5 +47,3 @@ G. Lu Xun je napisao u "Portretu koji nosi naziv":
   Olujni i mračni rodni grad
   Značenje hladne zvezde se ne primećuje
   Preporučujem Xuanyuan sa svojom krvlju
-
-

@@ -47,5 +47,3 @@ Lu Sjuņa kungs grāmatā "Pašportrets" rakstīja:
   Vētrainā un tumšā dzimtā pilsēta
   Aukstās zvaigznes nozīme netiek pamanīta
   Es iesaku Xuanyuan ar savām asinīm
-
-

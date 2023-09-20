@@ -47,5 +47,3 @@ Pak Lu Xun nulis ing "Potret Judul Diri":
   Kutha kramane ribut lan peteng
   Tegese lintang adhem ora digatekake
   Aku nyaranake Xuanyuan karo getihku
-
-

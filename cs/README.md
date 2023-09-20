@@ -47,5 +47,3 @@ Pan Lu Xun napsal v "Self-titled Portrait":
   Bouřlivé a temné rodné město
   Význam studené hvězdy není zaznamenán
   Doporučuji Xuanyuan svou krví
-
-

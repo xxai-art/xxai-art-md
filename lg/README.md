@@ -47,5 +47,3 @@ Mwami Lu Xun yawandiika mu "Self-titled Portrait":
   Ekibuga kyabwe eky'omuyaga n'ekizikiza
   Amakulu g’emmunyeenye ennyogovu tegategeerekeka
   Nze Xuanyuan nkuwa amagezi n’omusaayi gwange
-
-

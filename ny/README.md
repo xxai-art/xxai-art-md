@@ -47,5 +47,3 @@ Bambo Lu Xun analemba mu "Self-titled Portrait":
   Mkuntho ndi Mdima Wakwawo
   Tanthauzo la nyenyezi yozizira silikuzindikiridwa
   Ndikupangira Xuanyuan ndi magazi anga
-
-

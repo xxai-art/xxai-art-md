@@ -47,5 +47,3 @@ Mr. Lu Xun vakanyora mu "Self-titled Portrait":
   Mutaundi Wedutu uye Nerima
   Zvinorehwa nenyeredzi inotonhora hazvionekwe
   Ndinokurudzira Xuanyuan neropa rangu
-
-

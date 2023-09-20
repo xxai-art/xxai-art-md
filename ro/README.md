@@ -47,5 +47,3 @@ Domnul Lu Xun a scris în „Portret cu titlul propriu”:
   Orașul natal furtunos și întunecat
   Semnificația stelei reci nu este observată
   Recomand Xuanyuan cu sângele meu
-
-

@@ -47,5 +47,3 @@ Gospodin Lu Xun napisao je u "Portretu pod vlastitim nazivom":
   Burni i mračni rodni grad
   Ne primjećuje se značenje hladne zvijezde
   Preporučujem Xuanyuan sa svojom krvlju
-
-

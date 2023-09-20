@@ -47,5 +47,3 @@ Bwana Lu Xun yanditse muri "Kwiyita Portrait":
   Umuyaga n'Umujyi Wijimye
   Ibisobanuro byinyenyeri ikonje ntibigaragara
   Ndasaba Xuanyuan n'amaraso yanjye
-
-
