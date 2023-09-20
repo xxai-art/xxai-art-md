@@ -1,5 +1,6 @@
 lang:
   en:
   zh: en zh-TW
-plug:
-  - @xxai/i18n-bin
+on:
+  end:
+    - @xxai/i18n-bin
