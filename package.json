@@ -1,6 +1,6 @@
 {
   "type": "module",
   "dependencies": {
-    "@xxai/i18n": "^0.0.2"
+    "@xxai/i18n": "^0.0.4"
   }
 }

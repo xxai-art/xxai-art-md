@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@xxai/i18n':
-    specifier: ^0.0.2
-    version: 0.0.2
+    specifier: ^0.0.4
+    version: 0.0.4
 
 packages:
 
@@ -181,8 +181,8 @@ packages:
       '@w5/write': 0.0.1
     dev: false
 
-  /@xxai/i18n@0.0.2:
-    resolution: {integrity: sha512-4vXLuhC65jFzDk1Y/E4PMwRkKUq5kgZLAy48AWeIEWjS+ULJNL/ll2BNXD4MtkH9Ztb7OtsGzWWBQgUscmeusw==}
+  /@xxai/i18n@0.0.4:
+    resolution: {integrity: sha512-bNKieQgFSc55+XZVaUxE9bVakOrkVDCzOW8KfkI7YfAUxlT8y8Z1IleKeO7QrbuPocv2kQi8PitBMYckjzrBXQ==}
     hasBin: true
     dependencies:
       '@w5/bar': 0.0.5
@@ -827,7 +827,7 @@ packages:
   /wide-align@1.1.5:
     resolution: {integrity: sha512-eDMORYaPNZ4sQIuuYPDHdQvf4gyCF9rEEV/yPxGfwPkRodwEgiMUUXTx/dex+Me0wxx53S+NgUHaP7y3MGlDmg==}
     dependencies:
-      string-width: 1.0.2
+      string-width: 4.2.3
     dev: false
 
   /wrap-ansi@7.0.0:
