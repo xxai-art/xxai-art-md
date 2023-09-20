@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Markdown wiase nyinaa nsɛm a wɔka]:#
 
 # Sɔhwɛ
 

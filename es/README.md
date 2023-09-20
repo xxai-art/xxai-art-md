@@ -1,3 +1,5 @@
+[Comentarios globales de rebajas]:#
+
 # Prueba
 
 ## Fragmento De Código

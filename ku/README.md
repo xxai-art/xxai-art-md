@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Şîroveyên gerdûnî Markdown]:#
 
 # Îmtîhan
 

@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Markdown global kɔmɛnt dɛn]:#
 
 # Tɛst
 

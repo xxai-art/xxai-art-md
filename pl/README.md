@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Globalne komentarze Markdown]:#
 
 # Test
 

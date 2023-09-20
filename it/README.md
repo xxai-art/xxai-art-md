@@ -1,3 +1,5 @@
+[Commenti globali sul markdown]:#
+
 # Test
 
 ## Snippet Di Codice

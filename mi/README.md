@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Nga korero a te ao Markdown]:#
 
 # Whakamatau
 

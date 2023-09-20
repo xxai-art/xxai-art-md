@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[ʻO Markdown nā manaʻo honua]:#
 
 # Hoao
 

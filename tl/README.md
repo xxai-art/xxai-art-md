@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Markdown ng mga pandaigdigang komento]:#
 
 # Pagsusulit
 

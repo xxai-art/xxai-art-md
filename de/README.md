@@ -1,3 +1,5 @@
+[Markieren Sie globale Kommentare]:#
+
 # Prüfen
 
 ## Code-Auszug

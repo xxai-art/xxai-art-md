@@ -1,3 +1,5 @@
+[Markdown qlobal şərhlər]:#
+
 # Test
 
 ## Kod Parçası

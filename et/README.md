@@ -1,3 +1,5 @@
+[Markdown globaalsed kommentaarid]:#
+
 # Test
 
 ## Koodilõik

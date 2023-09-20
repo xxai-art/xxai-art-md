@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Bình luận toàn cầu Markdown]:#
 
 # Bài Kiểm Tra
 

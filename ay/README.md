@@ -1,3 +1,5 @@
+[Markdown uraqpachan arsuwinakapa]:#
+
 # Yant'a
 
 ## Código Fragmento Ukax Mä Juk’a Pachanakanwa

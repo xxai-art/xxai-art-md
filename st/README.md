@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Litlhaloso tsa lefats'e tsa Markdown]:#
 
 # Teko
 

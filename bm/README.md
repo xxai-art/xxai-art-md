@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Markdown diɲɛ bɛɛ ka kuma fɔlenw]:#
 
 # Kɔrɔbɔli
 

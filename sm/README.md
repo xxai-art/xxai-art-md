@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Fa'amatalaga fa'alelalolagi Markdown]:#
 
 # Su'ega
 

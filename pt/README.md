@@ -1,3 +1,5 @@
+[Comentários globais de redução]:#
+
 # Teste
 
 ## Fragmento De Código

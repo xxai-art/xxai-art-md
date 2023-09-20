@@ -1,4 +1,4 @@
-[Markdown 全局注释]:#
+[Maoni ya kimataifa ya Markdown]:#
 
 # Mtihani
 

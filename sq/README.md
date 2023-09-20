@@ -1,3 +1,5 @@
+[Markdown komentet globale]:#
+
 # Test
 
 ## Pjesa E Kodit
